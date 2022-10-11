@@ -52,7 +52,7 @@ The final dataset constructed contains 3 fields:
 
 ## Installation
 
-To clone the repository: 'https://github.com/JuanitaSmith/weather_patterns.git'
+To clone the repository: 'https://github.com/JuanitaSmith/weather_trends.git'
 
 
 ## Resources used:
